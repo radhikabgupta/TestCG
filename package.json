@@ -2,7 +2,7 @@
   "name": "rp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://radhikabgupta.github.io/ClickyGame/",
+  "homepage": "https://radhikabgupta.github.io/TestCG/",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
